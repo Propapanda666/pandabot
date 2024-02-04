@@ -41,5 +41,5 @@ uniqueName123:
 ```
 
 Start/ Stop: \
- simple start.sh/ stop.sh
+ ./bot.sh
 
