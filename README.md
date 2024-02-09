@@ -20,7 +20,7 @@ Documentation: https://docs.madelineproto.xyz/ \
 Download: https://github.com/danog/MadelineProto \
 Prereqiured: https://docs.madelineproto.xyz/docs/REQUIREMENTS.html 
 
-Additonal needed: PHP Postgres Module, PHP Yaml Module, PostgreSQL Server
+Additonal needed: PHP Postgres Module, PHP Yaml Module, PostgreSQL Server, apache webserver, php-fpm proxy
 
 > [!WARNING]
 > Telegram allow only 2000 requests per hour! Config ur channels.conf be carefully! \
