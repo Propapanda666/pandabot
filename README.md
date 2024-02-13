@@ -29,7 +29,7 @@ Additonal needed: PHP Postgres Module, PHP Yaml Module, PostgreSQL Server, apach
 
 
 Configuration: \
-edit conf/pandabot.conf - database settings, recover forward queue, botcommand \
+edit conf/pandabot.conf - database settings, recover forward queue, botcommand, webserver \
 edit conf/channels.conf:
 
 simple section conf: 
