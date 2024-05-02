@@ -1,5 +1,7 @@
 <h1><ins>**Project closed**</ins></h1>
 
+pay attention to your karma and the people around you
+
 ```
  ______                   __         __              __
 |   __ \.___.-.._____..__|  |.___.-.|  |__.._____. _|  |_
