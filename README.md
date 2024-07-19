@@ -1,4 +1,4 @@
-<h1><ins>**Project closed**</ins></h1>
+<h1><ins>**Project reopen**</ins></h1>
 
 pay attention to your karma and the people around you, often they think, you have a kick-me shield on your back
 
