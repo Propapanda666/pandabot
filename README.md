@@ -1,7 +1,5 @@
 <h1><ins>**Project reopen**</ins></h1>
 
-pay attention to your karma and the people around you, often they think, you have a kick-me shield on your back
-
 ```
  ______                   __         __              __
 |   __ \.___.-.._____..__|  |.___.-.|  |__.._____. _|  |_
