@@ -36,7 +36,7 @@ edit conf/channels.conf:
 
 simple section conf: 
 ```
-uniqueName123:
+'uniqueName123':
  from: channelid1
  to:
   - channelid2
